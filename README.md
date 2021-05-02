@@ -28,8 +28,3 @@ The agent can then be trained running the *main.py* file in the repo.
 The set of pre-train weights of the agent can be found in the *TrainedAgent* folder. 
 A simulation of the agent running the parameters can be checked running *test_agent.py* file. Also in this case, make sure the directory of the executable file is defined in the first line of the file.
 
-
-
-```python
-
-```
