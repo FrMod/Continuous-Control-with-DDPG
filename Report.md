@@ -60,4 +60,5 @@ A further improvement could result from the use of N-step returns and prioritize
 
 - [CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING](https://arxiv.org/abs/1509.02971) - Timothy P. Lillicrap,Jonathan J. Hunt,Alexander Pritzel,Nicolas Heess,Tom Erez,Yuval Tassa,David Silver & Daan Wierstra - Google Deepmind
 - DDPG implementation by [Phil Tabor](https://github.com/philtabor/Youtube-Code-Repository/tree/master/ReinforcementLearning/PolicyGradient/DDPG/pytorch/lunar-lander)
+- ["Grokking Deep Reinforcement Learning"](https://www.manning.com/books/grokking-deep-reinforcement-learning) book by Miguel Morales, published by Manning Publication
 
