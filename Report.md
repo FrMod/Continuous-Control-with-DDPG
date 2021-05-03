@@ -43,7 +43,7 @@ The hyper parameters of the algorithm and their values are reported below:
 ## Results
 
 The raw and averaged score recorded during traning are reported below.
-The algorithm is capable of solving the environment in 160 episodes.
+The algorithm is capable of solving the environment in approximately 160 episodes.
 
 ![scores.png](scores.png)
 
